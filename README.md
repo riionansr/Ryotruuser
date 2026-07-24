@@ -4,7 +4,7 @@
 </h1>
 
 <p align="left">
-  <strong>Desenvolvedor Front-end | React.js | TypeScript</strong>
+  <strong>IT • Microsoft Certified • Building practical software & automation</strong>
 </p>
 
 <p align="left">
